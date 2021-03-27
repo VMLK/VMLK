@@ -1,3 +1,5 @@
+![GitHub followers](https://img.shields.io/github/followers/rootlou?label=Followers)
+
 ### Welcome 👋
 
 I'm a student from somewhere in Europe who's interested in OS development and security research.
