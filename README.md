@@ -3,6 +3,7 @@
 ### 👋 Welcome
 
 I'm a student from Europe who's interested in OS development and security research.
+(Formerly known as Rootlou)
 
 ### 🗒️ Languages & Statistics
 
