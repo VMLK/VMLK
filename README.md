@@ -2,7 +2,7 @@
 
 ### 👋 Welcome
 
-I'm a student from somewhere in Europe who's interested in OS development and security research.
+I'm a student from Europe who's interested in OS development and security research.
 
 ### 🗒️ Languages & Statistics
 
