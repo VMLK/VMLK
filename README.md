@@ -1,4 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/rootlou?label=Followers)
+![GitHub followers](https://img.shields.io/github/followers/KernErr?label=Followers)
 
 ### 👋 Welcome
 
