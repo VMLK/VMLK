@@ -1,4 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/KernErr?label=Followers)
+![GitHub followers](https://img.shields.io/github/followers/binls?label=Followers)
 
 ### 👋 Welcome
 
@@ -7,5 +7,5 @@ I'm a student from Europe who's interested in OS development and security resear
 
 ### 🗒️ Languages & Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KernErr&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KernErr&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=binls&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binls&theme=tokyonight)
